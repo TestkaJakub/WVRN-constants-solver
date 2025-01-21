@@ -1,0 +1,21 @@
+{
+    "priorities": [
+        "addi 7",
+        "addi 6",
+        "addi 5",
+        "addi 4",
+        "addi 3",
+        "addi 2",
+        "addi 1",
+        "addi -8",
+        "addi -7",
+        "addi -6",
+        "addi -5",
+        "addi -4",
+        "addi -3",
+        "addi -2",
+        "addi -1",
+        "add acc",
+        "nand acc"
+    ]
+}

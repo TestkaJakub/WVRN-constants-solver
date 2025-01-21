@@ -1,0 +1,45 @@
+= WVRN Optimal Instruction Set Generator
+
+This project is a Python script designed to generate optimal instruction sets for obtaining specific constants in the accumulator of the WVRN Minecraft CPU. The program leverages a priority system defined in a priorities.json file to influence the presence of specific operations in the solutions.
+
+== Features
+
+Optimal Instruction Set Generation: Calculates the most efficient set of instructions to achieve a target constant in the accumulator.
+
+Customizable Priorities: Modify the priorities.json file to specify which operations should be more present in the solutions.
+
+JSON Output: Outputs the generated instruction sets in a structured JSON format for easy integration or analysis.
+
+== Setup
+
+Clone or download this repository.
+
+Create or modify the priorities.json file in the project root directory. The file should follow this structure:
+
+{
+    "priorities": [
+        "addi 7",
+        "addi 6",
+        "addi 5",
+        "add acc",
+        "nand acc"
+    ]
+}
+
+== Usage
+
+Place your priority list in priorities.json. The order of instructions in this file will determine their frequency in the generated solutions.
+
+Run the script:
+
+python main.py
+
+The script will generate a shortest_paths.json file containing the optimal instruction sets for each constant.
+
+== Priorities
+
+The priority system allows you to specify which operations you prefer to see more often in the solutions. Edit the priorities.json file to customize the instruction presence based on your preferences.
+
+== WVRN Instruction Set
+
+For detailed information on the WVRN instruction set, refer to the https://docs.google.com/spreadsheets/d/1i3Q2L1m56PltgmrEw15DMmdABcWfx8IORUwLYtaKq7w/edit?gid=237934555#gid=237934555[official documentation]
