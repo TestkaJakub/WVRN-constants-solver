@@ -32,33 +32,33 @@
     ],
     "8": [
         "lda 0",
-        "addi 1",
-        "addi 7"
+        "addi 7",
+        "addi 1"
     ],
     "9": [
         "lda 0",
-        "addi 2",
-        "addi 7"
+        "addi 7",
+        "addi 2"
     ],
     "10": [
         "lda 0",
-        "addi 3",
-        "addi 7"
+        "addi 7",
+        "addi 3"
     ],
     "11": [
         "lda 0",
-        "addi 4",
-        "addi 7"
+        "addi 7",
+        "addi 4"
     ],
     "12": [
         "lda 0",
-        "addi 5",
-        "addi 7"
+        "addi 7",
+        "addi 5"
     ],
     "13": [
         "lda 0",
-        "addi 6",
-        "addi 7"
+        "addi 7",
+        "addi 6"
     ],
     "14": [
         "lda 0",
@@ -67,39 +67,39 @@
     ],
     "15": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "nand acc"
+        "addi 7",
+        "addi 7",
+        "addi 1"
     ],
     "16": [
         "lda 0",
-        "addi 1",
         "addi 7",
-        "add acc"
+        "addi 7",
+        "addi 2"
     ],
     "17": [
         "lda 0",
-        "addi 3",
         "addi 7",
-        "addi 7"
+        "addi 7",
+        "addi 3"
     ],
     "18": [
         "lda 0",
-        "addi 2",
         "addi 7",
-        "add acc"
+        "addi 7",
+        "addi 4"
     ],
     "19": [
         "lda 0",
-        "addi 5",
         "addi 7",
-        "addi 7"
+        "addi 7",
+        "addi 5"
     ],
     "20": [
         "lda 0",
-        "addi 3",
         "addi 7",
-        "add acc"
+        "addi 7",
+        "addi 6"
     ],
     "21": [
         "lda 0",
@@ -109,42 +109,42 @@
     ],
     "22": [
         "lda 0",
-        "addi 4",
         "addi 7",
+        "addi 4",
         "add acc"
     ],
     "23": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "nand acc"
+        "addi 7",
+        "addi 7",
+        "addi 7",
+        "addi 2"
     ],
     "24": [
         "lda 0",
-        "addi 5",
         "addi 7",
+        "addi 5",
         "add acc"
     ],
     "25": [
         "lda 0",
-        "addi -8",
-        "addi -5",
-        "add acc",
-        "nand acc"
+        "addi 7",
+        "addi 7",
+        "addi 7",
+        "addi 4"
     ],
     "26": [
         "lda 0",
-        "addi 6",
         "addi 7",
+        "addi 6",
         "add acc"
     ],
     "27": [
         "lda 0",
-        "addi -8",
-        "addi -6",
-        "add acc",
-        "nand acc"
+        "addi 7",
+        "addi 7",
+        "addi 7",
+        "addi 6"
     ],
     "28": [
         "lda 0",
@@ -154,44 +154,44 @@
     ],
     "29": [
         "lda 0",
-        "addi -8",
-        "addi -7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc"
+        "addi 1"
     ],
     "30": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "nand acc",
+        "addi 7",
+        "addi 7",
+        "addi 1",
         "add acc"
     ],
     "31": [
         "lda 0",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc"
+        "addi 3"
     ],
     "32": [
         "lda 0",
-        "addi 1",
         "addi 7",
-        "add acc",
+        "addi 7",
+        "addi 2",
         "add acc"
     ],
     "33": [
         "lda 0",
-        "addi 6",
+        "addi 7",
         "addi 7",
         "add acc",
-        "addi 7"
+        "addi 5"
     ],
     "34": [
         "lda 0",
+        "addi 7",
+        "addi 7",
         "addi 3",
-        "addi 7",
-        "addi 7",
         "add acc"
     ],
     "35": [
@@ -203,48 +203,48 @@
     ],
     "36": [
         "lda 0",
-        "addi 2",
         "addi 7",
-        "add acc",
+        "addi 7",
+        "addi 4",
         "add acc"
     ],
     "37": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -3",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc"
+        "addi -5"
     ],
     "38": [
         "lda 0",
+        "addi 7",
+        "addi 7",
         "addi 5",
-        "addi 7",
-        "addi 7",
         "add acc"
     ],
     "39": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -4",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc"
+        "addi -3"
     ],
     "40": [
         "lda 0",
-        "addi 3",
         "addi 7",
-        "add acc",
+        "addi 7",
+        "addi 6",
         "add acc"
     ],
     "41": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -5",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc"
+        "addi -1"
     ],
     "42": [
         "lda 0",
@@ -255,104 +255,104 @@
     ],
     "43": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -6",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc"
+        "addi 1"
     ],
     "44": [
         "lda 0",
-        "addi 4",
         "addi 7",
+        "addi 4",
         "add acc",
         "add acc"
     ],
     "45": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -7",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc"
+        "addi 3"
     ],
     "46": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "nand acc",
+        "addi 7",
+        "addi 7",
+        "addi 7",
+        "addi 2",
         "add acc"
     ],
     "47": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc"
+        "addi 5"
     ],
     "48": [
         "lda 0",
-        "addi 5",
         "addi 7",
+        "addi 5",
         "add acc",
         "add acc"
     ],
     "49": [
         "lda 0",
-        "addi 4",
+        "addi 7",
+        "addi 7",
         "addi 7",
         "add acc",
-        "add acc",
-        "addi 5"
+        "addi 7"
     ],
     "50": [
         "lda 0",
-        "addi -8",
-        "addi -5",
-        "add acc",
-        "nand acc",
+        "addi 7",
+        "addi 7",
+        "addi 7",
+        "addi 4",
         "add acc"
     ],
     "51": [
         "lda 0",
-        "addi -8",
-        "addi -5",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi -5"
     ],
     "52": [
         "lda 0",
-        "addi 6",
         "addi 7",
+        "addi 6",
         "add acc",
         "add acc"
     ],
     "53": [
         "lda 0",
-        "addi 5",
+        "addi 7",
         "addi 7",
         "add acc",
         "add acc",
-        "addi 5"
+        "addi -3"
     ],
     "54": [
         "lda 0",
-        "addi -8",
-        "addi -6",
-        "add acc",
-        "nand acc",
+        "addi 7",
+        "addi 7",
+        "addi 7",
+        "addi 6",
         "add acc"
     ],
     "55": [
         "lda 0",
-        "addi -8",
-        "addi -6",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi -1"
     ],
     "56": [
         "lda 0",
@@ -363,33 +363,33 @@
     ],
     "57": [
         "lda 0",
-        "addi 6",
+        "addi 7",
         "addi 7",
         "add acc",
         "add acc",
-        "addi 5"
+        "addi 1"
     ],
     "58": [
         "lda 0",
-        "addi -8",
-        "addi -7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc",
+        "addi 1",
         "add acc"
     ],
     "59": [
         "lda 0",
-        "addi -8",
-        "addi -7",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi 3"
     ],
     "60": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "nand acc",
+        "addi 7",
+        "addi 7",
+        "addi 1",
         "add acc",
         "add acc"
     ],
@@ -403,70 +403,70 @@
     ],
     "62": [
         "lda 0",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc",
+        "addi 3",
         "add acc"
     ],
     "63": [
         "lda 0",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi 7"
     ],
     "64": [
         "lda 0",
-        "addi 1",
         "addi 7",
-        "add acc",
+        "addi 7",
+        "addi 2",
         "add acc",
         "add acc"
     ],
     "65": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "nand acc",
+        "addi 7",
+        "addi 7",
+        "addi 4",
         "add acc",
         "add acc",
-        "addi 5"
+        "addi -7"
     ],
     "66": [
         "lda 0",
-        "addi 6",
+        "addi 7",
         "addi 7",
         "add acc",
-        "addi 7",
+        "addi 5",
         "add acc"
     ],
     "67": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -1",
+        "addi 7",
+        "addi 7",
+        "addi 4",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi -5"
     ],
     "68": [
         "lda 0",
+        "addi 7",
+        "addi 7",
         "addi 3",
-        "addi 7",
-        "addi 7",
         "add acc",
         "add acc"
     ],
     "69": [
         "lda 0",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
+        "addi 5",
         "add acc",
-        "addi -3",
         "add acc",
-        "nand acc"
+        "addi -7"
     ],
     "70": [
         "lda 0",
@@ -478,117 +478,117 @@
     ],
     "71": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -2",
+        "addi 7",
+        "addi 7",
+        "addi 5",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi -5"
     ],
     "72": [
         "lda 0",
-        "addi 2",
         "addi 7",
-        "add acc",
+        "addi 7",
+        "addi 4",
         "add acc",
         "add acc"
     ],
     "73": [
         "lda 0",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
+        "addi 6",
         "add acc",
-        "addi -5",
         "add acc",
-        "nand acc"
+        "addi -7"
     ],
     "74": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -3",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc",
+        "addi -5",
         "add acc"
     ],
     "75": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -3",
+        "addi 7",
+        "addi 7",
+        "addi 6",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi -5"
     ],
     "76": [
         "lda 0",
+        "addi 7",
+        "addi 7",
         "addi 5",
-        "addi 7",
-        "addi 7",
         "add acc",
         "add acc"
     ],
     "77": [
         "lda 0",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "addi -7",
         "add acc",
-        "nand acc"
+        "addi -7"
     ],
     "78": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -4",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc",
+        "addi -3",
         "add acc"
     ],
     "79": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -4",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi -5"
     ],
     "80": [
         "lda 0",
-        "addi 3",
         "addi 7",
-        "add acc",
+        "addi 7",
+        "addi 6",
         "add acc",
         "add acc"
     ],
     "81": [
         "lda 0",
-        "addi 3",
+        "addi 7",
+        "addi 7",
         "addi 7",
         "add acc",
         "add acc",
-        "add acc",
-        "addi 1"
+        "addi -3"
     ],
     "82": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -5",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc",
+        "addi -1",
         "add acc"
     ],
     "83": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -5",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi -1"
     ],
     "84": [
         "lda 0",
@@ -600,243 +600,243 @@
     ],
     "85": [
         "lda 0",
-        "addi 3",
+        "addi 7",
+        "addi 7",
         "addi 7",
         "add acc",
         "add acc",
-        "add acc",
-        "addi 5"
+        "addi 1"
     ],
     "86": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -6",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc",
+        "addi 1",
         "add acc"
     ],
     "87": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -6",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi 3"
     ],
     "88": [
         "lda 0",
-        "addi 4",
         "addi 7",
+        "addi 4",
         "add acc",
         "add acc",
         "add acc"
     ],
     "89": [
         "lda 0",
-        "addi 4",
+        "addi 7",
+        "addi 7",
         "addi 7",
         "add acc",
         "add acc",
-        "add acc",
-        "addi 1"
+        "addi 5"
     ],
     "90": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -7",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc",
+        "addi 3",
         "add acc"
     ],
     "91": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -7",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi 7"
     ],
     "92": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "nand acc",
+        "addi 7",
+        "addi 7",
+        "addi 7",
+        "addi 2",
         "add acc",
         "add acc"
     ],
     "93": [
         "lda 0",
-        "addi 4",
         "addi 7",
+        "addi 5",
         "add acc",
         "add acc",
         "add acc",
-        "addi 5"
+        "addi -3"
     ],
     "94": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "nand acc",
+        "addi 5",
         "add acc"
     ],
     "95": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 5",
         "add acc",
         "add acc",
-        "nand acc"
+        "add acc",
+        "addi -1"
     ],
     "96": [
         "lda 0",
-        "addi 5",
         "addi 7",
+        "addi 5",
         "add acc",
         "add acc",
         "add acc"
     ],
     "97": [
         "lda 0",
-        "addi 5",
         "addi 7",
+        "addi 6",
         "add acc",
         "add acc",
         "add acc",
-        "addi 1"
+        "addi -7"
     ],
     "98": [
         "lda 0",
-        "addi 4",
+        "addi 7",
+        "addi 7",
         "addi 7",
         "add acc",
-        "add acc",
-        "addi 5",
+        "addi 7",
         "add acc"
     ],
     "99": [
         "lda 0",
-        "addi 5",
         "addi 7",
+        "addi 6",
         "add acc",
         "add acc",
         "add acc",
-        "addi 3"
+        "addi -5"
     ],
     "100": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "add acc",
-        "addi -7",
+        "addi 7",
+        "addi 7",
+        "addi 7",
+        "addi 4",
         "add acc",
         "add acc"
     ],
     "101": [
         "lda 0",
-        "addi 5",
         "addi 7",
+        "addi 6",
         "add acc",
         "add acc",
         "add acc",
-        "addi 5"
+        "addi -3"
     ],
     "102": [
         "lda 0",
-        "addi -8",
+        "addi 7",
+        "addi 7",
+        "add acc",
+        "add acc",
         "addi -5",
-        "add acc",
-        "add acc",
-        "nand acc",
         "add acc"
     ],
     "103": [
         "lda 0",
-        "addi -8",
-        "addi -5",
+        "addi 7",
+        "addi 6",
         "add acc",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi -1"
     ],
     "104": [
         "lda 0",
-        "addi 6",
         "addi 7",
+        "addi 6",
         "add acc",
         "add acc",
         "add acc"
     ],
     "105": [
         "lda 0",
-        "addi 6",
+        "addi 7",
         "addi 7",
         "add acc",
         "add acc",
         "add acc",
-        "addi 1"
+        "addi -7"
     ],
     "106": [
         "lda 0",
-        "addi 5",
+        "addi 7",
         "addi 7",
         "add acc",
         "add acc",
-        "addi 5",
+        "addi -3",
         "add acc"
     ],
     "107": [
         "lda 0",
-        "addi 6",
+        "addi 7",
         "addi 7",
         "add acc",
         "add acc",
         "add acc",
-        "addi 3"
+        "addi -5"
     ],
     "108": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "add acc",
-        "addi -5",
+        "addi 7",
+        "addi 7",
+        "addi 7",
+        "addi 6",
         "add acc",
         "add acc"
     ],
     "109": [
         "lda 0",
-        "addi 6",
+        "addi 7",
         "addi 7",
         "add acc",
         "add acc",
         "add acc",
-        "addi 5"
+        "addi -3"
     ],
     "110": [
         "lda 0",
-        "addi -8",
-        "addi -6",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "nand acc",
+        "addi -1",
         "add acc"
     ],
     "111": [
         "lda 0",
-        "addi -8",
-        "addi -6",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi -1"
     ],
     "112": [
         "lda 0",
@@ -857,11 +857,11 @@
     ],
     "114": [
         "lda 0",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "addi -7",
+        "addi 1",
         "add acc"
     ],
     "115": [
@@ -875,10 +875,10 @@
     ],
     "116": [
         "lda 0",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "addi -3",
+        "addi 1",
         "add acc",
         "add acc"
     ],
@@ -893,27 +893,27 @@
     ],
     "118": [
         "lda 0",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "addi -5",
+        "addi 3",
         "add acc"
     ],
     "119": [
         "lda 0",
-        "addi -8",
-        "addi -7",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
         "add acc",
-        "nand acc"
+        "addi 7"
     ],
     "120": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -1",
+        "addi 7",
+        "addi 7",
+        "addi 1",
         "add acc",
         "add acc",
         "add acc"
@@ -929,11 +929,11 @@
     ],
     "122": [
         "lda 0",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "addi -3",
+        "addi 5",
         "add acc"
     ],
     "123": [
@@ -947,10 +947,10 @@
     ],
     "124": [
         "lda 0",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "addi -1",
+        "addi 3",
         "add acc",
         "add acc"
     ],
@@ -965,11 +965,11 @@
     ],
     "126": [
         "lda 0",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "addi -1",
+        "addi 7",
         "add acc"
     ],
     "127": [
@@ -1018,10 +1018,10 @@
     ],
     "132": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "addi -7",
+        "addi 7",
+        "addi 7",
+        "add acc",
+        "addi 5",
         "add acc",
         "add acc"
     ],
@@ -1089,10 +1089,10 @@
     ],
     "140": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "addi -5",
+        "addi 7",
+        "addi 7",
+        "add acc",
+        "addi 7",
         "add acc",
         "add acc"
     ],
@@ -1107,21 +1107,21 @@
     ],
     "142": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "add acc",
-        "add acc",
         "addi 7",
+        "addi 7",
+        "add acc",
+        "add acc",
+        "nand acc",
         "add acc"
     ],
     "143": [
         "lda 0",
-        "addi -8",
-        "addi -7",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
         "add acc",
-        "addi 7"
+        "nand acc"
     ],
     "144": [
         "lda 0",
@@ -1160,10 +1160,10 @@
     ],
     "148": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "addi -3",
+        "addi 7",
+        "addi 6",
+        "add acc",
+        "nand acc",
         "add acc",
         "add acc"
     ],
@@ -1178,21 +1178,21 @@
     ],
     "150": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 6",
         "add acc",
-        "addi -5",
+        "add acc",
+        "nand acc",
         "add acc"
     ],
     "151": [
         "lda 0",
-        "addi -8",
-        "addi -6",
+        "addi 7",
+        "addi 6",
         "add acc",
         "add acc",
         "add acc",
-        "addi 7"
+        "nand acc"
     ],
     "152": [
         "lda 0",
@@ -1231,10 +1231,10 @@
     ],
     "156": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "addi -1",
+        "addi 7",
+        "addi 5",
+        "add acc",
+        "nand acc",
         "add acc",
         "add acc"
     ],
@@ -1249,21 +1249,21 @@
     ],
     "158": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 5",
         "add acc",
-        "addi -1",
+        "add acc",
+        "nand acc",
         "add acc"
     ],
     "159": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 5",
         "add acc",
         "add acc",
-        "addi -1"
+        "add acc",
+        "nand acc"
     ],
     "160": [
         "lda 0",
@@ -1319,21 +1319,21 @@
     ],
     "166": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 4",
         "add acc",
-        "addi 3",
+        "add acc",
+        "nand acc",
         "add acc"
     ],
     "167": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 4",
         "add acc",
         "add acc",
-        "addi 7"
+        "add acc",
+        "nand acc"
     ],
     "168": [
         "lda 0",
@@ -1354,21 +1354,21 @@
     ],
     "170": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "addi 5",
+        "nand acc",
         "add acc"
     ],
     "171": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -7",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "addi 7"
+        "nand acc"
     ],
     "172": [
         "lda 0",
@@ -1389,21 +1389,21 @@
     ],
     "174": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "add acc",
         "addi 7",
+        "addi 7",
+        "addi 6",
+        "add acc",
+        "nand acc",
         "add acc"
     ],
     "175": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -6",
+        "addi 7",
+        "addi 7",
+        "addi 6",
         "add acc",
         "add acc",
-        "addi 7"
+        "nand acc"
     ],
     "176": [
         "lda 0",
@@ -1432,12 +1432,12 @@
     ],
     "179": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -5",
+        "addi 7",
+        "addi 7",
+        "addi 5",
         "add acc",
         "add acc",
-        "addi 7"
+        "nand acc"
     ],
     "180": [
         "lda 0",
@@ -1466,12 +1466,12 @@
     ],
     "183": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -4",
+        "addi 7",
+        "addi 7",
+        "addi 4",
         "add acc",
         "add acc",
-        "addi 7"
+        "nand acc"
     ],
     "184": [
         "lda 0",
@@ -1585,19 +1585,19 @@
     ],
     "198": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "addi -5",
+        "addi 7",
+        "addi 7",
+        "add acc",
+        "nand acc",
         "add acc"
     ],
     "199": [
         "lda 0",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
         "add acc",
         "add acc",
-        "addi 7"
+        "nand acc"
     ],
     "200": [
         "lda 0",
@@ -1616,19 +1616,19 @@
     ],
     "202": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "addi -3",
+        "addi 7",
+        "addi 6",
+        "add acc",
+        "nand acc",
         "add acc"
     ],
     "203": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 6",
         "add acc",
-        "addi -5"
+        "add acc",
+        "nand acc"
     ],
     "204": [
         "lda 0",
@@ -1647,19 +1647,19 @@
     ],
     "206": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "addi -1",
+        "addi 7",
+        "addi 5",
+        "add acc",
+        "nand acc",
         "add acc"
     ],
     "207": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 5",
         "add acc",
-        "addi -1"
+        "add acc",
+        "nand acc"
     ],
     "208": [
         "lda 0",
@@ -1685,11 +1685,11 @@
     ],
     "211": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 4",
         "add acc",
-        "addi 3"
+        "add acc",
+        "nand acc"
     ],
     "212": [
         "lda 0",
@@ -1700,11 +1700,11 @@
     ],
     "213": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
+        "addi 7",
         "add acc",
-        "addi 5"
+        "nand acc"
     ],
     "214": [
         "lda 0",
@@ -1715,11 +1715,11 @@
     ],
     "215": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
+        "addi 7",
+        "addi 7",
+        "addi 6",
         "add acc",
-        "addi 7"
+        "nand acc"
     ],
     "216": [
         "lda 0",
@@ -1798,10 +1798,10 @@
     ],
     "227": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "addi -5"
+        "addi 7",
+        "addi 7",
+        "add acc",
+        "nand acc"
     ],
     "228": [
         "lda 0",
@@ -1811,10 +1811,10 @@
     ],
     "229": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "addi -3"
+        "addi 7",
+        "addi 6",
+        "add acc",
+        "nand acc"
     ],
     "230": [
         "lda 0",
@@ -1824,10 +1824,10 @@
     ],
     "231": [
         "lda 0",
-        "addi -8",
-        "addi -8",
-        "addi -8",
-        "addi -1"
+        "addi 7",
+        "addi 5",
+        "add acc",
+        "nand acc"
     ],
     "232": [
         "lda 0",
